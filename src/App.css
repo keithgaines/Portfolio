@@ -148,3 +148,17 @@ button[type="submit"] {
 button[type="submit"]:hover {
   background-color: #0056b3;
 }
+
+/* Technologies used */
+.technologies {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #666666;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+  .projectscontainer {
+    grid-template-columns: 1fr;
+  }
+}
