@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Keith Gaines Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio repository. This is where I showcase my journey as a Full Stack Developer with a focus on React and .Net Core. Below, you'll find a breakdown of what you can explore in this repository.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Introduction](#introduction)
+- [Experience](#experience)
+- [Projects](#projects)
+- [Contact Me](#contact-me)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The webpage you see here is a representation of my skills, experience, and projects. It features a responsive navigation bar that gives you quick access to my LinkedIn profile and GitHub repository. Feel free to connect and explore more about my work!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Experience
 
-### `npm test`
+In the "Years of Experience" section, you'll find a snapshot of my experience in various technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- HTML: 3 years
+- CSS: 3 years
+- SQL: 3 years
+- React: 2 years
+- .Net: 1 year
 
-### `npm run build`
+## Projects
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+I'm really excited to share the projects I've worked on. Each project reflects my passion for creating meaningful and functional applications.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 1. To Do List
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A straightforward To-Do List app crafted using React, with LocalStorage integration for data persistence.
 
-### `npm run eject`
+- [View Code](https://github.com/keithgaines/todolist_react)
+- [View Live Site](https://todolisttsx.vercel.app)
+- Tech Stack: HTML, CSS, React, LocalStorage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 2. Modern Art Gallery
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Landing page for an art gallery made with React and Bootstrap.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [View Code](https://github.com/keithgaines/art-gallery-website)
+- [View Live Site](https://keithgaines.github.io/art-gallery-website)
+- Tech Stack: HTML, CSS, React, Bootstrap
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 3. Galleria Slideshow
 
-## Learn More
+Immerse yourself in captivating image slideshows powered by React and Bootstrap.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [View Code](https://github.com/keithgaines/slideshowreact)
+- [View Live Site](https://slideshowreact.vercel.app/)
+- Tech Stack: HTML, CSS, React, Bootstrap
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 4. Photosnap Stories
 
-### Code Splitting
+Discover visually engaging photo stories through this React and Bootstrap-powered website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [View Code](https://github.com/keithgaines/photosnapFullStack)
+- [View Live Site](https://photosnapchallenge.vercel.app/)
+- Tech Stack: HTML, CSS, React, Bootstrap
 
-### Analyzing the Bundle Size
+### 5. Bulky Book
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+.Net Application where users can order books in bulk. Admins can manage users and orders. Built using .Net Core, .Net MVC, and SQL for database management.
 
-### Making a Progressive Web App
+- [View Code](https://github.com/keithgaines/Bulky)
+- Tech Stack: .Net Core, .Net MVC, SQL
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 6. NZ Walks API
 
-### Advanced Configuration
+Explore New Zealand's beautiful trails through my .Net Core and .Net MVC API.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [View Code](https://github.com/keithgaines/NZWalksAPI)
+- Tech Stack: .Net Core, .Net MVC, SQL
 
-### Deployment
+## Contact Me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Feel free to reach out if you have any questions, ideas, or just want to connect. You can use the email form on the website to get in touch.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Best regards,
+Keith Gaines
