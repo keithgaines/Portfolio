@@ -12,6 +12,13 @@ body {
   color: #dafffb;
 }
 
+/* Social links */
+.socialLinks {
+  display: flex;
+  gap: 10px;
+  margin-left: 30px;
+}
+
 /* Navbar styles */
 .navbar {
   background-color: #176b87;
@@ -34,20 +41,20 @@ body {
 }
 
 .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg' fill='%23dafffb'%3E%3Cpath d='M0 14h16v-1.5H0zm0-5h16V7H0zm0-5h16V2H0z'/%3E%3C/svg%3E");
   width: 1.5em;
   height: 1.5em;
 }
 
-/* Social links */
-.socialLinks {
-  display: flex;
-  gap: 10px;
+/* Style the SVG icons */
+.bi {
+  fill: #dafffb;
+  transition: fill 0.3s ease;
+  margin-left: 20px;
 }
 
-.socialLinks a {
-  text-decoration: none;
-  color: #dafffb;
-  transition: color 0.3s ease;
+.bi:hover {
+  fill: #64ccc5;
 }
 
 /* Intro section */

@@ -37,6 +37,13 @@ const projectsData = [
     liveSiteLink: null,
     technologiesUsed: ".Net Core, .Net MVC, SQL",
   },
+  {
+    title: "NZ Walks API",
+    imageSrc: "../images/api.jpg",
+    githubLink: "https://github.com/keithgaines/NZWalksAPI",
+    liveSiteLink: null,
+    technologiesUsed: ".Net Core, .Net MVC, SQL",
+  },
 ];
 
 const ProjectsList = () => (
