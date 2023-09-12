@@ -24,13 +24,6 @@ const projectsData = [
     technologiesUsed: "HTML, CSS, React, Bootstrap",
   },
   {
-    title: "Photosnap Stories",
-    imageSrc: "../images/photosnap.png",
-    githubLink: "https://github.com/keithgaines/photosnapFullStack",
-    liveSiteLink: "https://photosnapchallenge.vercel.app/",
-    technologiesUsed: "HTML, CSS, React, Bootstrap",
-  },
-  {
     title: "Bulky Book",
     imageSrc: "../images/bulkybook.jpg",
     githubLink: "https://github.com/keithgaines/Bulky",
