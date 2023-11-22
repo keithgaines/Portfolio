@@ -51,22 +51,14 @@ Immerse yourself in captivating image slideshows powered by React and Bootstrap.
 - [View Live Site](https://slideshowreact.vercel.app/)
 - Tech Stack: HTML, CSS, React, Bootstrap
 
-### 4. Photosnap Stories
-
-Discover visually engaging photo stories through this React and Bootstrap-powered website.
-
-- [View Code](https://github.com/keithgaines/photosnapFullStack)
-- [View Live Site](https://photosnapchallenge.vercel.app/)
-- Tech Stack: HTML, CSS, React, Bootstrap
-
-### 5. Bulky Book
+### 4. Bulky Book
 
 .Net Application where users can order books in bulk. Admins can manage users and orders. Built using .Net Core, .Net MVC, and SQL for database management.
 
 - [View Code](https://github.com/keithgaines/Bulky)
 - Tech Stack: .Net Core, .Net MVC, SQL
 
-### 6. NZ Walks API
+### 5. NZ Walks API
 
 Explore New Zealand's beautiful trails through my .Net Core and .Net MVC API.
 
@@ -75,7 +67,7 @@ Explore New Zealand's beautiful trails through my .Net Core and .Net MVC API.
 
 ## Contact Me
 
-Feel free to reach out if you have any questions, ideas, or just want to connect. You can use the email form on the website to get in touch.
+Feel free to reach out if you have any questions, ideas, or just want to connect. You can use the email form on the website or message me directly on [LinkedIn](https://www.linkedin.com/in/keithgaines/) to get in touch.
 
 Best regards,
 Keith Gaines
