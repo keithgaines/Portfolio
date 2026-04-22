@@ -15,36 +15,6 @@ const projectsData = [
     featured: true,
   },
   {
-    title: "To Do List",
-    imageSrc: "/images/todolist.png",
-    githubLink: "https://github.com/keithgaines/todolist_react",
-    liveSiteLink: "https://todolisttsx.vercel.app",
-    technologiesUsed: "React, LocalStorage",
-    problem: "Users needed a simple offline task tracker.",
-    solution:
-      "Implemented a lightweight React app using LocalStorage for persistence.",
-  },
-  {
-    title: "Modern Art Gallery",
-    imageSrc: "/images/artGallery.png",
-    githubLink: "https://github.com/keithgaines/art-gallery-website",
-    liveSiteLink: "https://keithgaines.github.io/art-gallery-website",
-    technologiesUsed: "React, Bootstrap",
-    problem: "Static gallery lacked responsive layout behavior.",
-    solution:
-      "Built a responsive gallery layout optimized for all screen sizes.",
-  },
-  {
-    title: "Galleria Slideshow",
-    imageSrc: "/images/galleria.png",
-    githubLink: "https://github.com/keithgaines/slideshowreact",
-    liveSiteLink: "https://slideshowreact.vercel.app/",
-    technologiesUsed: "React, Bootstrap",
-    problem: "Needed a smooth image browsing experience for artwork.",
-    solution:
-      "Created a slideshow interface with clean transitions and responsive design.",
-  },
-  {
     title: "Bulky Book",
     imageSrc: "/images/bulkybook.jpg",
     githubLink: "https://github.com/keithgaines/Bulky",
