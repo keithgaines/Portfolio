@@ -2,25 +2,46 @@ import React from "react";
 
 const Intro = () => {
   return (
-    <div className="intro">
-      <div className="intro-content">
-        <h1 className="intro-title">
-          I'm Keith. A Full Stack Developer specializing in React, Node, and
-          .Net Core.
+    <section className="hero">
+      <div className="hero-content">
+        <h1>
+          I’m Keith Gaines.
+          <br />
+          Full Stack Engineer.
         </h1>
+
+        <p className="hero-subtitle">
+          I build full-stack applications using React and .NET, with a focus on
+          state-driven interfaces, API design, and maintainable system
+          architecture.
+        </p>
+
+        <div className="hero-meta">
+          <p>
+            Production engineering experience since 2021 · Web development
+            foundation began in 2010
+          </p>
+        </div>
+
+        <div className="hero-links">
+          <a
+            href="https://github.com/keithgaines"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/keithgaines/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            LinkedIn
+          </a>
+        </div>
       </div>
-      <div className="experience">
-        <h2 className="experience-title">Years of Experience:</h2>
-        <ul className="experience-list">
-          <li>HTML: 3</li>
-          <li>CSS: 3</li>
-          <li>SQL: 3</li>
-          <li>React: 2</li>
-          <li>Node: 2</li>
-          <li>.Net: 1</li>
-        </ul>
-      </div>
-    </div>
+    </section>
   );
 };
 
