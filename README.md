@@ -1,73 +1,98 @@
-# Keith Gaines Portfolio
+# Keith Gaines — Portfolio
 
-Welcome to my portfolio repository. This is where I showcase my journey as a Full Stack Developer with a focus on React and .Net Core. Below, you'll find a breakdown of what you can explore in this repository.
+Full Stack Engineer focused on building React and .NET applications with clean UI structure, REST APIs, and practical system design.
 
-## Table of Contents
+Live site: https://keithresume.vercel.app/  
+LinkedIn: https://www.linkedin.com/in/keith-gaines-378bba163/
 
-- [Introduction](#introduction)
-- [Experience](#experience)
-- [Projects](#projects)
-- [Contact Me](#contact-me)
+---
 
-## Introduction
+## Overview
 
-The webpage you see here is a representation of my skills, experience, and projects. It features a responsive navigation bar that gives you quick access to my LinkedIn profile and GitHub repository. Feel free to connect and explore more about my work!
+This repository contains my personal portfolio site and selected projects that demonstrate full-stack development across frontend, backend, and API design.
 
-## Experience
+The goal of this portfolio is to showcase:
 
-In the "Years of Experience" section, you'll find a snapshot of my experience in various technologies:
+- Frontend architecture using React
+- Backend and API development using .NET Core
+- Practical full-stack application design
+- Deployed, production-style projects
 
-- HTML: 3 years
-- CSS: 3 years
-- SQL: 3 years
-- React: 2 years
-- .Net: 1 year
+---
 
-## Projects
+## Featured Projects
 
-I'm really excited to share the projects I've worked on. Each project reflects my passion for creating meaningful and functional applications.
+### Kanban Web App (Redux)
 
-### 1. To Do List
+A task management application built with React and Redux demonstrating predictable state management and scalable UI structure.
 
-A straightforward To-Do List app crafted using React, with LocalStorage integration for data persistence.
+- Code: https://github.com/keithgaines/kanban_redux
+- Live: https://kanban-redux.vercel.app/
+- Stack: React, Redux, JavaScript, Tailwind CSS
 
-- [View Code](https://github.com/keithgaines/todolist_react)
-- [View Live Site](https://todolisttsx.vercel.app)
-- Tech Stack: HTML, CSS, React, LocalStorage
+---
 
-### 2. Modern Art Gallery
+### NZ Walks API
 
-Landing page for an art gallery made with React and Bootstrap.
+REST API built with .NET Core for managing walking trail data, focusing on clean API structure and data modeling.
 
-- [View Code](https://github.com/keithgaines/art-gallery-website)
-- [View Live Site](https://keithgaines.github.io/art-gallery-website)
-- Tech Stack: HTML, CSS, React, Bootstrap
+- Code: https://github.com/keithgaines/NZWalksAPI
+- Stack: .NET Core, C#, SQL Server
 
-### 3. Galleria Slideshow
+---
 
-Immerse yourself in captivating image slideshows powered by React and Bootstrap.
+### Bulky Book (E-Commerce App)
 
-- [View Code](https://github.com/keithgaines/slideshowreact)
-- [View Live Site](https://slideshowreact.vercel.app/)
-- Tech Stack: HTML, CSS, React, Bootstrap
+Server-rendered web application for bulk book ordering with admin and user flows.
 
-### 4. Bulky Book
+- Code: https://github.com/keithgaines/Bulky
+- Stack: .NET Core, ASP.NET MVC, SQL Server
 
-.Net Application where users can order books in bulk. Admins can manage users and orders. Built using .Net Core, .Net MVC, and SQL for database management.
+---
 
-- [View Code](https://github.com/keithgaines/Bulky)
-- Tech Stack: .Net Core, .Net MVC, SQL
+### To Do List App
 
-### 5. NZ Walks API
+Frontend task manager with persistent local storage and React-based UI state handling.
 
-Explore New Zealand's beautiful trails through my .Net Core and .Net MVC API.
+- Code: https://github.com/keithgaines/todolist_react
+- Live: https://todolisttsx.vercel.app
+- Stack: React, JavaScript, LocalStorage
 
-- [View Code](https://github.com/keithgaines/NZWalksAPI)
-- Tech Stack: .Net Core, .Net MVC, SQL
+---
 
-## Contact Me
+### Galleria Slideshow
 
-Feel free to reach out if you have any questions, ideas, or just want to connect. You can use the email form on the website or message me directly on [LinkedIn](https://www.linkedin.com/in/keithgaines/) to get in touch.
+Responsive image slideshow application built with React and Bootstrap.
 
-Best regards,
-Keith Gaines
+- Code: https://github.com/keithgaines/slideshowreact
+- Live: https://slideshowreact.vercel.app/
+- Stack: React, Bootstrap
+
+---
+
+### Modern Art Gallery
+
+Responsive landing page project focused on layout and UI structure.
+
+- Code: https://github.com/keithgaines/art-gallery-website
+- Live: https://keithgaines.github.io/art-gallery-website
+- Stack: React, Bootstrap
+
+---
+
+## Technical Focus
+
+- Frontend: React, JavaScript, UI composition
+- Backend: .NET Core, REST APIs, C#
+- Databases: SQL Server
+- Architecture: component-based frontend, layered backend services
+- Tooling: Git, GitHub, Vercel, Visual Studio
+
+---
+
+## Contact
+
+If you'd like to connect or discuss opportunities:
+
+- LinkedIn: https://www.linkedin.com/in/keithgaines/
+- Portfolio: https://keithresume.vercel.app/
