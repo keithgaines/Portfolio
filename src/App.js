@@ -1,5 +1,4 @@
 import "./App.css";
-import Navbar from "./components/Navbar";
 import Intro from "./components/Intro";
 import ProjectsList from "./components/ProjectsList";
 import ContactForm from "./components/Form";
@@ -7,7 +6,6 @@ import ContactForm from "./components/Form";
 function App() {
   return (
     <div className="App">
-      <Navbar />
       <Intro />
       <ProjectsList />
       <ContactForm />
