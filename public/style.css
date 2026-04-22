@@ -1,0 +1,20 @@
+.socialLinks {
+  position: absolute;
+  right: 75px;
+}
+
+.socialLinks a {
+  margin: 0 15px 0 15px;
+}
+
+/* Style for LinkedIn SVG */
+.bi.bi-linkedin {
+  width: 24px; /* Set the desired width */
+  height: 24px; /* Set the desired height */
+}
+
+/* Style for GitHub SVG */
+.bi.bi-github {
+  width: 24px; /* Set the desired width */
+  height: 24px; /* Set the desired height */
+}
