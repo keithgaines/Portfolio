@@ -5,7 +5,7 @@ const projectsData = [
   {
     title: "Payments Operations Intelligence Platform",
 
-    imageSrc: "/images/paymentsops.png",
+    imageSrc: "/images/paymentops.png",
 
     githubLink: "https://github.com/keithgaines/payments-operations-platform",
 
@@ -15,31 +15,31 @@ const projectsData = [
       "Next.js, React, TypeScript, ASP.NET Core, PostgreSQL, Azure, Vercel",
 
     problem:
-      "Payments operations teams often lack centralized tooling for transaction investigation, operational analytics, merchant monitoring, and operational KPI visibility.",
+      "Payment teams need a faster way to review transactions, monitor merchant activity, and understand what is happening across the business without jumping between disconnected tools.",
 
     solution:
-      "Designed and deployed a production-style fintech operations platform with transaction investigation workflows, analytics dashboards, merchant monitoring capabilities, REST APIs, and cloud-hosted frontend/backend infrastructure.",
+      "Built a live operations dashboard that brings transaction review, merchant details, performance metrics, and investigation workflows into one place. The goal was to model the kind of internal tool a payments team would use to make faster, better-informed decisions.",
 
     featured: true,
   },
 
   {
-    title: "Portfolio Engineering Redesign",
+    title: "Galleria — Interactive Art Gallery Experience",
 
-    imageSrc: null,
+    imageSrc: "/images/galleria.png",
 
-    githubLink: "https://github.com/keithgaines/Portfolio",
+    githubLink: "https://github.com/keithgaines/GalleriaSlideshow",
 
-    liveSiteLink: null,
+    liveSiteLink: "https://slideshowreact.vercel.app/",
 
     technologiesUsed:
       "React, Responsive CSS Architecture, Vercel, UI Refactoring",
 
     problem:
-      "The original portfolio presentation did not accurately communicate backend engineering depth, systems thinking, infrastructure competency, or operational engineering experience.",
+      "The original gallery worked, but the design felt dated and did not present the artwork in a polished or professional way across different screen sizes.",
 
     solution:
-      "Redesigned the portfolio around engineering case studies, responsive architecture, production-focused presentation standards, and operational systems positioning.",
+      "Redesigned the experience into a cleaner digital gallery with stronger visual hierarchy, responsive layouts, improved image presentation, and a more refined slideshow experience.",
   },
 
   {
@@ -54,10 +54,10 @@ const projectsData = [
     technologiesUsed: "RedwoodJS, Vite, Yarn, CI/CD, Vercel, Responsive CSS",
 
     problem:
-      "Legacy RedwoodJS application architecture and deployment configuration created compatibility issues with modern tooling and hosting workflows.",
+      "The application was built on older tooling, which made local development, deployment, and future updates harder to manage.",
 
     solution:
-      "Led framework modernization from RedwoodJS 5 to RedwoodJS 7, resolved Vite integration issues, stabilized Vercel deployments, and refactored responsive frontend architecture.",
+      "Updated the project to a newer framework and deployment setup, resolved build issues, and cleaned up the frontend structure so the application could run more reliably and be easier to maintain.",
   },
 ];
 
@@ -71,12 +71,12 @@ const ProjectsList = () => {
       <div className="section-heading">
         <p className="section-eyebrow">Case Studies</p>
 
-        <h2>Selected Engineering Work</h2>
+        <h2>Selected Work</h2>
 
         <p className="section-description">
-          Production-focused applications, platform modernization work, and
-          operational tooling built across frontend, backend, infrastructure,
-          and deployment environments.
+          A focused look at applications I have built, modernized, and deployed
+          — with an emphasis on practical business workflows, maintainability,
+          and real-world usability.
         </p>
       </div>
 

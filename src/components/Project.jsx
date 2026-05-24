@@ -8,6 +8,7 @@ const Project = ({
   technologiesUsed = "",
   problem = "",
   solution = "",
+  featured = false,
 }) => {
   const techArray = (technologiesUsed || "")
     .split(",")
@@ -15,24 +16,49 @@ const Project = ({
     .filter(Boolean);
 
   return (
-    <div className="project">
-      <h3>{title}</h3>
+    <article className={`project ${featured ? "project-featured" : ""}`}>
+      <div className="project-header">
+        <div>
+          <p className="project-label">Engineering Case Study</p>
 
-      {imageSrc && <img src={imageSrc} alt={`Screenshot of ${title}`} />}
+          <h3>{title}</h3>
+        </div>
+
+        <div className="links">
+          <a href={githubLink} target="_blank" rel="noreferrer">
+            View Code
+          </a>
+
+          {liveSiteLink && (
+            <a href={liveSiteLink} target="_blank" rel="noreferrer">
+              Live Platform
+            </a>
+          )}
+        </div>
+      </div>
+
+      {imageSrc && (
+        <div className="project-image">
+          <img src={imageSrc} alt={`Screenshot of ${title}`} />
+        </div>
+      )}
 
       <div className="project-context">
         <div className="project-block">
           <h4>Problem</h4>
+
           <p>{problem}</p>
         </div>
 
         <div className="project-block">
           <h4>Solution</h4>
+
           <p>{solution}</p>
         </div>
 
         <div className="project-block">
-          <h4>Tech Stack</h4>
+          <h4>Technology Stack</h4>
+
           <div className="tech-badges">
             {techArray.map((tech) => (
               <span key={tech} className="tech-badge">
@@ -42,19 +68,7 @@ const Project = ({
           </div>
         </div>
       </div>
-
-      <div className="links">
-        <a href={githubLink} target="_blank" rel="noreferrer">
-          View Code
-        </a>
-
-        {liveSiteLink && (
-          <a href={liveSiteLink} target="_blank" rel="noreferrer">
-            Live Site
-          </a>
-        )}
-      </div>
-    </div>
+    </article>
   );
 };
 
