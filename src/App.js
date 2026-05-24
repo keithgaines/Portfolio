@@ -5,6 +5,7 @@ import Capabilities from "./components/Capabilities";
 import Experience from "./components/Experience";
 import Certifications from "./components/Certifications";
 import ContactForm from "./components/Form";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Experience />
       <Certifications />
       <ContactForm />
+      <Footer />
     </main>
   );
 }
