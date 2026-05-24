@@ -29,8 +29,6 @@ const Footer = () => {
           >
             LinkedIn
           </a>
-
-          <a href="mailto:patrick.keith.gaines@gmail.com">Email</a>
         </div>
       </div>
     </footer>
