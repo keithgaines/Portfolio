@@ -1,92 +1,121 @@
 # Keith Gaines — Portfolio
 
-Full Stack Engineer focused on building React and .NET applications with clean UI structure, REST APIs, and practical system design.
+Full Stack Engineer with experience building business applications, internal operational tools, and modern web platforms.
 
-Live site: https://keithresume.vercel.app/  
-LinkedIn: https://www.linkedin.com/in/keith-gaines-378bba163/
+Live Site: https://keithresume.vercel.app/
+LinkedIn: https://www.linkedin.com/in/keithgaines/
 
 ---
 
 ## Overview
 
-This repository contains my personal portfolio site and selected projects that demonstrate full-stack development across frontend, backend, and API design.
+This repository contains my personal portfolio and selected projects that demonstrate experience across software development, operational tooling, cloud platforms, and responsive web applications.
 
-The goal of this portfolio is to showcase:
+My work focuses on building systems that are practical, maintainable, and designed around real business workflows.
 
-- Frontend architecture using React
-- Backend and API development using .NET Core
-- Practical full-stack application design
-- Deployed, production-style projects
+Areas of focus include:
 
----
-
-## Featured Projects
-
-### Kanban Web App (Redux)
-
-A task management application built with React and Redux demonstrating predictable state management and scalable UI structure.
-
-- Code: https://github.com/keithgaines/kanban_redux
-- Live: https://kanban-redux.vercel.app/
-- Stack: React, Redux, JavaScript, Tailwind CSS
+* Internal business applications
+* Operational dashboards and reporting tools
+* Backend systems and APIs
+* Cloud deployment and infrastructure
+* Modern frontend application development
+* Production-ready web platforms
 
 ---
 
-### NZ Walks API
+## Featured Work
 
-REST API built with .NET Core for managing walking trail data, focusing on clean API structure and data modeling.
+### Payments Operations Intelligence Platform
 
-- Code: https://github.com/keithgaines/NZWalksAPI
-- Stack: .NET Core, C#, SQL Server
+A fintech operations platform designed to simulate the type of internal tools used by payments and business operations teams.
 
----
+The platform allows teams to:
 
-### Bulky Book (E-Commerce App)
+* Review transaction activity
+* Monitor merchant performance
+* View operational metrics
+* Investigate payment workflows
+* Access centralized reporting dashboards
 
-Server-rendered web application for bulk book ordering with admin and user flows.
+The project was built to demonstrate how engineering and operations teams can work together through well-designed internal tooling.
 
-- Code: https://github.com/keithgaines/Bulky
-- Stack: .NET Core, ASP.NET MVC, SQL Server
-
----
-
-### To Do List App
-
-Frontend task manager with persistent local storage and React-based UI state handling.
-
-- Code: https://github.com/keithgaines/todolist_react
-- Live: https://todolisttsx.vercel.app
-- Stack: React, JavaScript, LocalStorage
+* Code: https://github.com/keithgaines/payments-operations-platform
+* Live: https://payments-ops-platform.vercel.app/
 
 ---
 
-### Galleria Slideshow
+### Galleria — Interactive Art Gallery Experience
 
-Responsive image slideshow application built with React and Bootstrap.
+A redesigned digital gallery application focused on improving usability, visual presentation, and responsive behavior across devices.
 
-- Code: https://github.com/keithgaines/slideshowreact
-- Live: https://slideshowreact.vercel.app/
-- Stack: React, Bootstrap
+The project included:
+
+* Modern UI redesign
+
+* Improved mobile responsiveness
+
+* Better image presentation and layout structure
+
+* Interactive slideshow and gallery functionality
+
+* Frontend architecture cleanup and refactoring
+
+* Code: https://github.com/keithgaines/GalleriaSlideshow
+
+* Live: https://slideshowreact.vercel.app/
 
 ---
 
-### Modern Art Gallery
+### RedwoodJS Platform Modernization
 
-Responsive landing page project focused on layout and UI structure.
+A modernization project focused on upgrading an older web application to newer tooling and deployment standards.
 
-- Code: https://github.com/keithgaines/art-gallery-website
-- Live: https://keithgaines.github.io/art-gallery-website
-- Stack: React, Bootstrap
+The work included:
+
+* Framework upgrades
+
+* Deployment stabilization
+
+* Frontend cleanup and restructuring
+
+* Build issue resolution
+
+* Improved maintainability and developer workflow
+
+* Code: https://github.com/keithgaines/PhotosnapStories
+
+* Live: https://photosnapstories.vercel.app/
 
 ---
 
-## Technical Focus
+## Professional Experience
 
-- Frontend: React, JavaScript, UI composition
-- Backend: .NET Core, REST APIs, C#
-- Databases: SQL Server
-- Architecture: component-based frontend, layered backend services
-- Tooling: Git, GitHub, Vercel, Visual Studio
+### Celero Commerce — Full Stack Engineer
+
+2023 – May 2026
+
+Worked on internal applications and operational systems within a payments-focused environment.
+
+Responsibilities included supporting frontend and backend development, integrations, production troubleshooting, and business workflow tooling.
+
+### Celero Commerce — Infrastructure Support
+
+Prior to 2023
+
+Supported infrastructure, systems troubleshooting, and operational environments before transitioning into software engineering.
+
+This experience helped build a strong foundation in reliability, diagnostics, and production support workflows.
+
+---
+
+## Certifications
+
+* AWS Certified Cloud Practitioner
+* Microsoft Azure Fundamentals (AZ-900)
+* CompTIA Security+
+* CompTIA Project+
+* Linux Certification
 
 ---
 
@@ -94,5 +123,6 @@ Responsive landing page project focused on layout and UI structure.
 
 If you'd like to connect or discuss opportunities:
 
-- LinkedIn: https://www.linkedin.com/in/keithgaines/
-- Portfolio: https://keithresume.vercel.app/
+* Portfolio: https://keithresume.vercel.app/
+* LinkedIn: https://www.linkedin.com/in/keithgaines/
+* GitHub: https://github.com/keithgaines
