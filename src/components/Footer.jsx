@@ -21,7 +21,7 @@ const Footer = () => {
           >
             GitHub
           </a>
-
+          <br />
           <a
             href="https://www.linkedin.com/in/keithgaines/"
             target="_blank"
