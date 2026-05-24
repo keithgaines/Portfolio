@@ -5,7 +5,7 @@ const certifications = [
   "Microsoft Azure Fundamentals (AZ-900)",
   "CompTIA Security+",
   "CompTIA Project+",
-  "Linux Certification",
+  "Linux Essentials",
 ];
 
 const Certifications = () => {
