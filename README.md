@@ -2,7 +2,7 @@
 
 Full Stack Engineer with experience building business applications, internal operational tools, and modern web platforms.
 
-Live Site: https://keithresume.vercel.app/
+Live Site: https://keithresume.vercel.app/<br />
 LinkedIn: https://www.linkedin.com/in/keithgaines/
 
 ---
@@ -61,9 +61,8 @@ The project included:
 
 * Frontend architecture cleanup and refactoring
 
-* Code: https://github.com/keithgaines/GalleriaSlideshow
-
-* Live: https://slideshowreact.vercel.app/
+Code: https://github.com/keithgaines/GalleriaSlideshow<br />
+Live: https://slideshowreact.vercel.app/
 
 ---
 
@@ -83,9 +82,8 @@ The work included:
 
 * Improved maintainability and developer workflow
 
-* Code: https://github.com/keithgaines/PhotosnapStories
-
-* Live: https://photosnapstories.vercel.app/
+Code: https://github.com/keithgaines/PhotosnapStories<br />
+Live: https://photosnapstories.vercel.app/
 
 ---
 
