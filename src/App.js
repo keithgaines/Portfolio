@@ -5,11 +5,11 @@ import ContactForm from "./components/Form";
 
 function App() {
   return (
-    <div className="App">
+    <main className="portfolio">
       <Intro />
       <ProjectsList />
       <ContactForm />
-    </div>
+    </main>
   );
 }
 

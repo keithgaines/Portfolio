@@ -4,22 +4,22 @@ const Intro = () => {
   return (
     <section className="hero">
       <div className="hero-content">
+        <p className="hero-eyebrow">Full Stack Engineer · Backend Focused</p>
+
         <h1>
-          I’m Keith Gaines.
-          <br />
-          Full Stack Engineer.
+          I build operational platforms, APIs, and production-ready web systems.
         </h1>
 
         <p className="hero-subtitle">
-          I build full-stack applications using React and .NET, with a focus on
-          state-driven interfaces, API design, and maintainable system
-          architecture.
+          I’m Keith Gaines, a full stack engineer focused on backend services,
+          data-driven workflows, cloud deployment, and maintainable frontend
+          architecture across React, .NET, PostgreSQL, Azure, and AWS.
         </p>
 
         <div className="hero-meta">
           <p>
             Production engineering experience since 2021 · Web development
-            foundation began in 2010
+            foundation since 2010
           </p>
         </div>
 
