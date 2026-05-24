@@ -3,6 +3,7 @@ import Intro from "./components/Intro";
 import ProjectsList from "./components/ProjectsList";
 import Capabilities from "./components/Capabilities";
 import Experience from "./components/Experience";
+import Certifications from "./components/Certifications";
 import ContactForm from "./components/Form";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <ProjectsList />
       <Capabilities />
       <Experience />
+      <Certifications />
       <ContactForm />
     </main>
   );
