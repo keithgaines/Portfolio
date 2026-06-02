@@ -9,7 +9,7 @@ const projectsData = [
 
     githubLink: "https://github.com/keithgaines/payments-operations-platform",
 
-    liveSiteLink: "https://payments-ops-platform.vercel.app/",
+    liveSiteLink: "https://payments-operations-platform.vercel.app/",
 
     technologiesUsed:
       "Next.js, React, TypeScript, ASP.NET Core, PostgreSQL, Azure, Vercel",
